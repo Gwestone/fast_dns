@@ -1,0 +1,11 @@
+{
+  "port": 53,
+  "redirect": "8.8.8.8",
+  "blacklist": [
+    "google.com",
+    "foo.bar"
+  ],
+  "errors": {
+    "blacklist": "message blocked by black list"
+  }
+}
