@@ -1,3 +1,5 @@
 nslookup example.com 8.8.8.8
 
 curl -H "Host: example.com" http://93.184.216.34
+
+sudo ./venv/bin/python3 main.py
